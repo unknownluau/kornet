@@ -1,1 +1,0 @@
-RCCService.exe -Console -verbose -placeid:6001 -localtest "gameserver.json" -settingsfile "DevSettingsFile.json" -port 64989
