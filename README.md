@@ -7,6 +7,9 @@
 
 this guide will be mostly a mix of the original one, and some things i added.
 
+yea so i gotta address a few vulnerabilities try to find them urself im too lazy, so when kornet was up we added a couple of bypasses for a couple of ids including
+id 3 (me unknown) id 2 (aaron) id 23 (potato) and some others so js try to find them ig my bad that kornet wasnt built for public use XD
+
 (original guide by <a href="https://github.com/SrCookie450">SrCookie450</a>, changed and site fixed by <a href="https://github.com/harryzawg">harryzawg</a>)
 
 ## things you need
