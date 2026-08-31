@@ -1,0 +1,11 @@
+{
+    "rcc": "C:\\Users\\Administrator\\Downalods\\kornet\\RCCService",
+    "rccexe": "RCCService.exe",
+    "authorization": "RendererAuthInTheAppSettingsConfigJsonFileTheyShouldMatch",
+    "baseUrl": "https://kornet.lat",
+    "rccPort": 64989,
+    "port": 3040,
+    "websiteBotAuth": "TheBotAuthInTheAppSettingsConfigJson",
+    "thumbnailWebsocketPort": 3189,
+    "webhook": "YourWebhook"
+}
