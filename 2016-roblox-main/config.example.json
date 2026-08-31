@@ -1,0 +1,54 @@
+{
+  "serverRuntimeConfig": {
+    "backend": {
+      "csrfKey": "2NekqgcpRg4+Y3RRcYjE4jVt8xuDwTS1JpZPlKFAgUdHu1EKhP2HvJD5P+axVsz9A1kAT1Sy3C+yFwGcq6ltYw=="
+    }
+  },
+  "publicRuntimeConfig": {
+    "backend": {
+      "proxyEnabled": true,
+      "flags": {
+        "myAccountPage2016Enabled": true,
+        "catalogGenreFilterSupported": true,
+        "catalogPageLimit": 28,
+        "catalogSaleCountVisibleFromDetailsEndpoint": true,
+        "commentsEndpointHasAreCommentsDisabledProp": true,
+        "catalogDetailsPageResellerLimit": 10,
+        "avatarPageInventoryLimit": 10,
+        "friendsPageLimit": 25,
+        "settingsPageThemeSelectorEnabled": true,
+        "tradeWindowInventoryCollectibleLimit": 10,
+        "moneyPagePromotionTabVisible": false,
+        "gameGenreFilterSupported": true,
+        "avatarPageOutfitCreatedAtAvailable": true,
+        "catalogDetailsPageOwnersTabEnabled": true,
+        "launchUsingEsURI": true,
+        "downloadPageEnabled": true,
+        "downloadGameClients": [
+          {
+            "title": "Windows Kornet Launcher",
+            "url": "https://setup.kornet.lat/KornetPlayerLauncher.exe",
+            "imageUrl": "/korcdns/windows.png"
+          },
+          {
+            "title": "Linux Kornet Launcher",
+            "url": "https://setup.kornet.lat/KornetLinuxPlayerLauncher.sh",
+            "imageUrl": "/korcdns/Linux.png"
+          },
+          {
+            "title": "Kornet 2020L Android",
+            "url": "https://setup.kornet.lat/Kornet2020L.apk",
+            "imageUrl": "/korcdns/kornet.png"
+          },
+          {
+            "title": "Kornet FPS Unlocker",
+            "url": "https://github.com/unknownluau/kornetfpsunlocker/releases/latest",
+            "imageUrl": "/korcdns/fpsunlocker.png"
+          }
+        ]
+      },
+      "baseUrl": "https://kornet.lat/",
+      "apiFormat": "https://kornet.lat/apisite/{0}{1}"
+    }
+  }
+}
