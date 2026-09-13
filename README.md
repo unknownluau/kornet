@@ -57,11 +57,7 @@ you should change GameServerAuthorization and the Authorization under Render in 
 
 ## setting up thumbnails and frontend
 
-- first off, go into ```Roblox/Roblox.Website/Middleware/CorsMiddleware.cs```, and replace everything that has ```bbblox.org``` in it with your domain, this is so thumbnails can load.
-- go into the ```api``` folder, 
-- create a folder named ```storage``` inside of that api folder,
-- inside the ```storage``` folder you just made, make a folder named ```asset```,
-- then go back to the ```api``` folder, and go into ```public/images```. then, make a folder named ```thumbnails``` and ```groups```.
+- first off, go into ```Roblox/Roblox.Website/Middleware/CorsMiddleware.cs```, and replace everything that has ```kornet.lat``` in it with your domain, this is so thumbnails can load.
 - open Command Prompt and use CD to go into the ```admin``` folder, then run ```npm i``` and ```npm run build```
 - go to ```2016-roblox-main``` and rename the file named config.example.json to config.json.
 - replace ```your.domain``` with your actual domain inside of that config.json file.
